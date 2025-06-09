@@ -6,7 +6,7 @@
 
 ---
 
-![Dead by Daylight Unlocker](https://raw.githubusercontent.com/Fortnite-Burger/DeadByDaylight-Unlocker/main/assets/preview.png)
+![Dead by Daylight Unlocker](https://user-images.githubusercontent.com/50819244/274572040-e1bf88ae-9634-4b3d-a788-c52c92628206.jpg)
 
 ## 🧩 Features
 
@@ -82,8 +82,7 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## 💬 Support & Community
 
-For updates, support, or to contribute, visit the official GitHub page:  
-[https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker)
+For updates, support, or to contribute, visit the official GitHub page.
 
 ---
 
